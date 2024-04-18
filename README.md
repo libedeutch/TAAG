@@ -1,2 +1,2 @@
 # TAAG
-![TAAG](map_annotation_hray.png)
+![TAAG](map_annotation_gray.png)
